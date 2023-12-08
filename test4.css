@@ -1,0 +1,74 @@
+.rod-block
+{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.rod-items
+{
+    width: 540px;
+    height: 500px;
+    background-color: tomato;
+}
+.rod-items-1
+{
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.rod-items-1 div
+{
+    width: 250px;
+    height: 225px;
+    background-color: blue;
+}
+.rod-block-1
+{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.rod-items-2
+{
+    width: 540px;
+    height: 500px;
+    background-color: tomato;
+}
+.rod-items-3
+{
+    width: 570px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.rod-items-3 div
+{
+    width: 270px;
+    height: 235px;
+    background-color: blue;
+}
+footer
+{
+    width: 1140px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.foot-items
+{
+    width: 255px;
+    height: 250px;
+    background-color: tomato;
+}
+.foot-items-1
+{
+    width: 570px;
+    height: 250px;
+    background-color: blue;
+}
